@@ -1,6 +1,5 @@
 #ifndef ABOUTDEPANNAGE_H
 #define ABOUTDEPANNAGE_H
-
 #include <QDialog>
 
 namespace Ui {

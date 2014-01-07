@@ -1,5 +1,5 @@
 #include "fenetreprincipale.h"
-#include "ui_fenetreprincipale.h"
+
 #include "aboutdepannage.h"
 
 
